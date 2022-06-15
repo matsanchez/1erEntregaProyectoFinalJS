@@ -1,12 +1,12 @@
-body {
-  background-image: url("./img/bg4.jpg");
+html {
+  background-image: url("../img/bg4.jpg");
   background-size: cover;
   object-fit: fill;
 }
-body div {
+html div {
   text-align: center;
 }
-body div:last-child {
+html div:last-child {
   display: flex;
   justify-content: space-evenly;
 }
